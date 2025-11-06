@@ -1,4 +1,4 @@
-#!/Users/natkrittar/Documents/GitHub/YokAndPunKGI/TradeSim-venv/bin/python
+#!/Users/pun/Downloads/tradeSim_0.1.6/TradeSim-venv/bin/python
 import sys
 from jupyter_client.runapp import RunApp
 if __name__ == '__main__':

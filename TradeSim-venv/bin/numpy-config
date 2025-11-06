@@ -1,4 +1,4 @@
-#!/Users/natkrittar/Documents/GitHub/YokAndPunKGI/TradeSim-venv/bin/python3.14
+#!/Users/pun/Downloads/tradeSim_0.1.6/TradeSim-venv/bin/python3.14
 import sys
 from numpy._configtool import main
 if __name__ == '__main__':

@@ -1,2 +1,0 @@
-# YokAndPunKGI
-KGI Competition
